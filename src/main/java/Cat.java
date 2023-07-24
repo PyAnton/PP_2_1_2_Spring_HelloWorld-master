@@ -1,8 +1,3 @@
-import org.springframework.context.annotation.Scope;
-import org.springframework.stereotype.Component;
-
-import java.util.Objects;
-
 public class Cat {
     private String name;
 
